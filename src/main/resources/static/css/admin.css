@@ -1,0 +1,81 @@
+header {
+    background: #caedef;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 60px;
+}
+.add-tov
+{
+    text-decoration: none;
+    border: 0;
+    background: none;
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #2196f3;
+    padding: 14px 20px;
+    width: 150px;
+    outline: none;
+    color: black;
+    border-radius: 24px;
+    transition: 0.50s;
+    cursor: pointer;
+    position: absolute;
+    top: 0%;
+    left: 87%;
+    font-size: 20px;
+}
+.add-tov:hover
+{
+    background: #2ecc71;
+    box-shadow: 0 0 40px #2196f3;
+}
+.card-link
+{
+    background: none;
+    color: red;
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+.card-link1
+{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+.card {
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 6px;
+}
+.exit
+{
+    text-decoration: none;
+    border: 0;
+    background: none;
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #2196f3;
+    padding: 14px 20px;
+    width: 300px;
+    outline: none;
+    color: black;
+    border-radius: 24px;
+    transition: 0.50s;
+    cursor: pointer;
+    position: absolute;
+    top: 0%;
+    right: 75%;
+    font-size: 20px;
+}
+.exit:hover
+{
+    background: #2ecc71;
+    box-shadow: 0 0 40px #2196f3;
+}
+.card-img-top {
+    border-radius: 20px;
+}

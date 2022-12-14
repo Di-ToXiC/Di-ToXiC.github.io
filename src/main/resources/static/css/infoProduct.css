@@ -1,0 +1,25 @@
+body {
+    background: #d0f0f5;
+}
+.card {
+    padding: 5px;
+    object-fit: cover;
+    background: #d0f0f5;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+img {
+    border-radius: 15px;
+}
+.ttl {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+}
+.descr {
+    font-weight: 400;
+    font-size: 24px;
+    padding-left: 30px;
+}
